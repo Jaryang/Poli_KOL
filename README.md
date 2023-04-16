@@ -12,7 +12,7 @@ Both files can be found under "data" directory.
 
 Under "utils" a "tokenize.py" file is provided. This file is used to tokenize the tweets to get prepared for the following NLP analysis.
 
-## Model Construction walk-through
+## Model Construction
 The process of model construction is presented in the Jupyter Notebook file "analysis_model.ipynb" .
 
 ## To go through the whole process, these modules are needed:
