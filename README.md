@@ -1,4 +1,4 @@
-# Poli_KOL
+# Poli_KOL_Detection
 A tweet analysis project based on NLP(LDA modeling) and Network Analysis
 
 ## Introduction
